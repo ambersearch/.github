@@ -1,5 +1,3 @@
-# .github
-
 ![amber Team](./amber_Team_06cb9012cd.jpg)
 
 ## Gemeinsam bauen wir Business AI
